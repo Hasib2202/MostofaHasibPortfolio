@@ -7,7 +7,7 @@ Features
     Responsive Layout: The site is built to be responsive, adapting to different screen sizes, including mobile devices and tablets.
     Customizable Content: Feel free to fork this repository and customize the content to fit your own personal needs.
 
-Getting Started
+Getting Started my personal website
 
 To get started with your own personal website using GitHub Pages:
 
